@@ -1,4 +1,4 @@
-##Ledger app
+#Ledger app
 
 Defines a Ledger object that accepts input as text files and can print the accounts of all involved parties in the imported transactions.
 
